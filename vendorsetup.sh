@@ -1,0 +1,1 @@
+add_lunch_combo VM696-userdebug
